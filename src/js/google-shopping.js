@@ -1,7 +1,7 @@
 var data = require('../products.json');
 var counter = 0
 
-// Write your solutions below
+// Solutions for all 6:
 
 //console.log(data.items.kind["shopping#products"]);
 
